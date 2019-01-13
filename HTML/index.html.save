@@ -1,7 +1,0 @@
-<Directory "/Users/Users/sites/">
-  AllowOverride All
-  Options Indexs MultiViews FollowSymLinks
-  Require all granted
-</Directory>
-^x
-
